@@ -1,0 +1,15 @@
+.data-diri img{
+    width: 190px;
+    height: 270px;
+}
+.halaman-tambah{
+    border: 1px solid #aaaaaa;
+}
+
+.halaman-detail{
+    border: 1px solid #aaaaaa;
+}
+
+.halaman-edit{
+    border: 1px solid #aaaaaa;
+}
